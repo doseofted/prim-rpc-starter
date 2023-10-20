@@ -12,7 +12,7 @@ function postprocess(res: Response) {
 const fetch = primFetch({ prim, postprocess })
 
 const fetchAdapter = createServerAdapter(fetch)
-createServer(fetchAdapter).listen(3000)
+createServer(fetchAdapter).listen(3001)
 console.log("Prim+RPC is available at http://localhost:3000/prim")
 
 export type Module = typeof module
