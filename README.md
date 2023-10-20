@@ -1,8 +1,12 @@
 # Prim+RPC Starter Project
 
-📖 This is the completed project from [from the related blog post](https://prim.doseofted.me/docs/setup).
+📖 This is the completed project from
+[from the related blog post](https://blog.doseofted.me/javascript-as-a-query-language).
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/doseofted/prim-rpc-starter/tree/main)
+
+> Looking for the starter project? It's
+> [available here](https://github.com/doseofted/prim-rpc-starter/tree/follow-along)!
 
 In this project, we have a web server in Node and a website built with Vite:
 
@@ -18,4 +22,4 @@ npm install
 npm run dev
 ```
 
-[Read the Blog Article](https://prim.doseofted.me/docs/setup)
+[Read the Blog Article](https://blog.doseofted.me/javascript-as-a-query-language)
