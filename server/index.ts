@@ -6,7 +6,7 @@ import * as module from "./module"
 
 const prim = createPrimServer({ module })
 function postprocess(res: Response) {
-	res.headers.set("access-control-allow-origin", "http://localhost:5173")
+	res.headers.set("access-control-allow-origin", "http://localhost:3000")
 	res.headers.set("access-control-allow-headers", "content-type")
 }
 const fetch = primFetch({ prim, postprocess })
