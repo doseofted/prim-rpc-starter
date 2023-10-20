@@ -17,7 +17,6 @@
 		"server"
 	],
 	"stackblitz": {
-		"installDependencies": false,
-		"startCommand": "rm -f package-lock.json && pnpm install && pnpm dev"
+		"startCommand": "npm dev"
 	}
 }

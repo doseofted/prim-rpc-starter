@@ -1,9 +1,11 @@
-# Interactive Starter Project
+# Prim+RPC Starter Project
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/doseofted/prim-rpc-examples/tree/main/starter)
+[![Open in StackBlitz](./.github/open_in_stackblitz_small.svg)](https://stackblitz.com/github/doseofted/prim-rpc-starter/tree/main)
 
-> **Warning** This is not a full example in itself. It is intended to act as a
-> starting point for the
+> **Warning**
+>
+> This is not a full example in itself. It is intended to act as a starting
+> point for the
 > [tutorial on the Prim+RPC documentation website](https://prim.doseofted.me/docs/setup).
 > See [other examples](../) for a completely configured project.
 
