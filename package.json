@@ -17,6 +17,6 @@
 		"server"
 	],
 	"stackblitz": {
-		"startCommand": "npm dev"
+		"startCommand": "npm run dev"
 	}
 }
