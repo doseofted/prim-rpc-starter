@@ -1,4 +1,4 @@
-import { client } from "./client"
+import { client } from "./prim"
 
 // NOTE: ignore this line: it's just for development mode
 if (import.meta.env.DEV) fetch("http://localhost:3001/prim").catch(() => setTimeout(() => location.reload(), 300))
