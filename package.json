@@ -10,7 +10,10 @@
 		"vite": "^4.5.0"
 	},
 	"scripts": {
-		"dev": "turbo dev"
+		"turbo": "turbo",
+		"dev": "turbo dev",
+		"build": "turbo build",
+		"start": "turbo start"
 	},
 	"workspaces": [
 		"client",

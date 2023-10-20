@@ -8,5 +8,3 @@ console.log(greeting) // "Frontend, meet Backend."
 
 const app = document.getElementById("app")
 if (app) app.innerText = greeting
-
-export {}
