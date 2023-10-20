@@ -1,8 +1,8 @@
 # Prim+RPC Starter Project
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/doseofted/prim-rpc-starter/tree/main)
+📖 This is the completed project from [from the related blog post](https://prim.doseofted.me/docs/setup).
 
-**📖 This is the completed project from [from the related blog post](https://prim.doseofted.me/docs/setup).**
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/doseofted/prim-rpc-starter/tree/main)
 
 In this project, we have a web server in Node and a website built with Vite:
 
