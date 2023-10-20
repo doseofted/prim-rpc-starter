@@ -1,6 +1,6 @@
 # Prim+RPC Starter Project
 
-[![Open in StackBlitz](./.github/open_in_stackblitz_small.svg)](https://stackblitz.com/github/doseofted/prim-rpc-starter/tree/main)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/doseofted/prim-rpc-starter/tree/main)
 
 > **Warning**
 >
