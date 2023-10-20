@@ -1,5 +1,4 @@
 {
-	"name": "@example/starter",
 	"private": true,
 	"devDependencies": {
 		"@typescript-eslint/eslint-plugin": "^6.8.0",
@@ -16,8 +15,5 @@
 	"workspaces": [
 		"client",
 		"server"
-	],
-	"stackblitz": {
-		"startCommand": "npm run dev"
-	}
+	]
 }

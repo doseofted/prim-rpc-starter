@@ -4,7 +4,7 @@
 	"license": "UNLICENSED",
 	"private": true,
 	"scripts": {
-		"dev": "vite --open --port=3000",
+		"dev": "vite --open",
 		"build": "vite build",
 		"start": "vite preview"
 	},
