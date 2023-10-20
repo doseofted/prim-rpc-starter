@@ -1,18 +1,12 @@
-import { createPrimServer } from "@doseofted/prim-rpc"
-import { primFetch } from "@doseofted/prim-rpc-plugins/server-fetch"
 import { createServer } from "node:http"
 import { createServerAdapter } from "@whatwg-node/server"
-import * as module from "./module"
 
-const prim = createPrimServer({ module })
-function postprocess(res: Response) {
-	res.headers.set("access-control-allow-origin", "http://localhost:3000")
-	res.headers.set("access-control-allow-headers", "content-type")
+// TODO: Create the Prim+RPC server here
+
+const cors = {
+	"access-control-allow-origin": "http://localhost:3000",
+	"access-control-allow-headers": "content-type",
 }
-const fetch = primFetch({ prim, postprocess })
-
-const fetchAdapter = createServerAdapter(fetch)
+const fetchAdapter = createServerAdapter(() => new Response("Not implemented", { headers: cors }))
 createServer(fetchAdapter).listen(3001)
-console.log("Prim+RPC is available at http://localhost:3001/prim")
-
-export type Module = typeof module
+console.log("Server is running at http://localhost:3001/")
