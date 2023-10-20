@@ -4,7 +4,7 @@
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/doseofted/prim-rpc-starter/tree/follow-along)
 
-👀 The [completed project is also available](https://github.com/doseofted/prim-rpc-starter) if you have any trouble.
+> The [completed project is also available](https://github.com/doseofted/prim-rpc-starter) if you have any trouble.
 
 In this project, we have a web server in Node and a website built with Vite:
 
