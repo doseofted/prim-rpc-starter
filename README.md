@@ -1,6 +1,6 @@
 # Prim+RPC Starter Project
 
-📖 This is the starter project for [the related blog post](https://blog.doseofted.me/javascript-as-a-query-language).
+👷 This is the starter project for [the related blog post](https://blog.doseofted.me/javascript-as-a-query-language).
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/doseofted/prim-rpc-starter/tree/follow-along)
 
